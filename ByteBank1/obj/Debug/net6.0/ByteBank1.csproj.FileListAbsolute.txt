@@ -1,0 +1,75 @@
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Aulas\Turmas\Sharp Coders\Exercicios\Autorais\ByteBank1\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Aulas\Turmas\ByteBank1\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Users\prang\Downloads\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Users\prang\Desktop\ByteBank-SharpCoders-main\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
+C:\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\ByteBank-SharpCoders-main\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\ByteBank-SharpCoders-main\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
